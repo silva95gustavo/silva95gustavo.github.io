@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #18bc9c;
+    color: #233140;
 }
 
 h1,
@@ -226,7 +226,7 @@ section.success a.active {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba(24,188,156,.9);
+    background: rgba(255,153,50,.9);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -280,7 +280,7 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #233140;
     background: #fff;
 }
 
@@ -333,7 +333,7 @@ section.success a.active {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18bc9c;
+    color: #233140;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -472,4 +472,24 @@ footer .footer-below {
 .btn-default:hover {
 	background-color: #FF9932;
 	border-color: #FF9932;
+}
+
+.fa {
+	color: #233140;
+}
+
+.fa:hover {
+	color: #233140;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #FF9932;
+}
+
+.navbar-default .navbar-brand:hover {
+	color: #FF9932;
+}
+
+.btn > .fa-times {
+	color: white;
 }
