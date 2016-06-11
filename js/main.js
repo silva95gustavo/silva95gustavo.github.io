@@ -5,4 +5,3 @@ $('.modal').on('hidden.bs.modal', function () {
 	  $(this).attr("src", video);
 	});
 });
-console.log("c");
