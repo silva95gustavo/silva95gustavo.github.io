@@ -1,10 +1,28 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
-    "branch": "master"
+    "username": "gtugablue",
+    "repositoryName": "gtugablue.github.io",
+    "branch": "master",
+    "cname": "gustavosilva.me"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "http://gustavosilva.me/blog",
+    "hubpress": "http://gustavosilva.me/blog",
+    "theme": "//gustavosilva.me/blog/themes/casper",
+    "images": "http://gustavosilva.me/blog/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_Ctor": {}
   }
 }
