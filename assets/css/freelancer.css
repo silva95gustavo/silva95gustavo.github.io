@@ -370,7 +370,8 @@ footer .footer-col {
 }
 
 .text-muted {
-  color: #233140;
+  color: #888888;
+  font-size: 16px;
 }
 
 #contactForm ::placeholder {
