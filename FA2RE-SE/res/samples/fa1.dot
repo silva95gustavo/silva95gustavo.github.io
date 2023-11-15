@@ -1,5 +1,0 @@
-digraph {
-  rankdir=LR;
-  node [shape = doublecircle,
-  		peripheries = 2]; START;
-}
