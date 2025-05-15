@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/gtugablue
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://gustavosilva.me
+  * I am gtugablue (https://keybase.io/gtugablue) on keybase.
+  * I have a public key with fingerprint 5D9E BAFF 705C AE4F FA50  636A 5B62 22EA 7DB8 49A4
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01015245df42901a86917381ea7daf632a87b565ed673bf8b33fcab99848dc83a2fd0a",
+            "fingerprint": "5d9ebaff705cae4ffa50636a5b6222ea7db849a4",
+            "host": "keybase.io",
+            "key_id": "5b6222ea7db849a4",
+            "kid": "01015245df42901a86917381ea7daf632a87b565ed673bf8b33fcab99848dc83a2fd0a",
+            "uid": "dcbb0b1a07b8a09892ce777b76891119",
+            "username": "gtugablue"
+        },
+        "service": {
+            "hostname": "gustavosilva.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1472220461,
+    "expire_in": 157680000,
+    "prev": "6d3df4dcf0f4216e0cb44cc69bbba45b8a146d2e80efb1e44b9339d1df67039f",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIqAnicrVJbSFRBGF61kpYuBhlWVnrKKDQ9c+6zXQg0wWADIwhKWmbOzNk9up2z
+7Tm7uXS/EKlhF4jASuyi3S3Ch4TAS0YPYhJBWFnahSB6iSgfulBzJN96bF6G+ef7
+vvm+j+mbnuHzpx1paB++tb50R1p/T1PCt7k7uGIXh22S4gK7uBo6vtEooY4bqjEJ
+F+B4wANZkGRiSALkAdIUCFRRAxSpBBmKKCBNxbIiU6KoIjY0LIqGjjCEmqQRXROR
+YBAecUWcYVphGo/FTctlsjKBFCPDUHlZR1QyDCTziqggGSuCIHjiWJMgkhgxYjse
+g5nDyKHFps1m7BAat/cP/H/2nRiXIzrGPAaIV7GGeKhBQaeqqmJV0SAAAHpAh8Yt
+tJ0ydNhNhBGOJii3p4hj46SpU69ZL8oEJOG4KGk7ZjSJitmkiIvFbdfW7Si7jLhu
+LOBx3VTMA++kOPRXJoRNi7AqGSFJ445pW1wAMKTump4ukFTWBy8poIijtTEzTkOm
+h5CZUZ4t7xmaZJIKEVk1RDd4VhBQKK9jSdJ1BWKMkSSzlEBSiEA1nhoYUEnCUBQh
+AcRQVF6EBucF22HZXEBkNlGYSTpm2EJuIs5S93ZXTfKl+X1TJqd7X8znn5o18fHy
+ujN/1/Yu5Y6O3VygizPo1pF9ox2Nq5fPqjs5OAtFqsq2lT+v2Hszb+6q/W3NOYPJ
+ZelDF+32gW9f6s+tudtetueOVtHVmXEoN5f4Hiw5dpWOrrPevSztCNqV3VsvLS5v
+rUghUFD/6ULwQ0Noe8mRxfdmvJ+zsbg3K0ezHgW/Pn5SUvZly6Zr/mcr6din2Vm/
+ct4OZR9MRWIL6zb3V9ixgss0z5/Z9fB7fvrcydW7rQUlB4zjZ7M7cxu3XT/aXH34
+VOtw5MNgfas0cLvq9ZbKluV1Tdf78jPPXzkxc20hXPSjbd6JQvLqfufTlrcjJz+/
+6IHoZ9+NZOR9IvFxVeDN6WmpM/z8cxv+AEwRPpk=
+=fEvY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gtugablue
+
+==================================================================
