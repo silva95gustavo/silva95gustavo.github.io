@@ -377,3 +377,12 @@ footer .footer-col {
 #contactForm ::placeholder {
   color: #888888;
 }
+
+a i {
+  margin: 1rem;
+  font-size: 4rem;
+
+  &:hover {
+    opacity: 0.5;
+  }
+}
